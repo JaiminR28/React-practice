@@ -1,0 +1,12 @@
+.App {
+	position: absolute;
+}
+
+.Text {
+	background-color: aqua;
+	display: inline-block;
+	padding: 1rem;
+	position: relative;
+	margin: 0;
+	font-size: 4rem;
+}
